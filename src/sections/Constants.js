@@ -1,4 +1,3 @@
-import { Experience } from "./Imports";
 
 export  const IntroContstants = {
     email: "Email:",
