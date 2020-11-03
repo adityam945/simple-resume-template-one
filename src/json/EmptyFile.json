@@ -1,0 +1,73 @@
+[
+    {
+        "introData":[
+            {
+                "firstName": "",
+                "namePunctuation": "",
+                "lastName": "",
+                "email": "",
+                "phone": "",
+                "descriptionTitle": "",
+                "descriptionDetail": ""
+            }
+        ],
+        "experienceData": [
+            {
+                "companyName": "",
+                "companyLocation": "",
+                "durationOfWork": "",
+                "position": "",
+                "descriptionOfPosition":""
+            },
+            {
+                "companyName": " ",
+                "companyLocation": "",
+                "durationOfWork": "",
+                "position": "",
+                "descriptionOfPosition":""
+            }
+        ],
+        "educationData": [
+            {
+                "UniversityName": "",
+                "UniversityLocation": "",
+                "durationOfStudy": "",
+                "StudentRole": "",
+                "marks":""
+            },
+            {
+                "UniversityName": "",
+                "UniversityLocation": "",
+                "durationOfStudy": "",
+                "StudentRole": "",
+                "marks":""
+            }
+        ],
+        "projectsData": [
+            {
+                "projectName": "",
+                "projectDesciption": ""
+            },
+            {
+                "projectName": "",
+                "projectDesciption": ""
+            }
+        ],
+        "skillsData": [
+            {
+                "leftSideList": [
+                    {
+                        "nameOfSkill": ""
+                },
+                {
+                    "nameOfSkill": ""
+            }
+            ]
+
+            }
+        ],
+        "interestsData": [{
+            "nameOfItem": ""
+        }]
+    }
+]
