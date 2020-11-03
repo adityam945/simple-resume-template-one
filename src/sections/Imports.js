@@ -1,9 +1,9 @@
-export { default as Intro } from './Intro';
-export { default as Experience } from './Experience';
-export { default as Education } from "./Education"
-export { default as Projects } from "./Projects"
-export { default as Skills } from "./Skills"
-export { default as Intrests } from "./Intrests"
+export { default as One } from './One';
+export { default as Two } from './Two';
+export { default as Three } from "./Three"
+export { default as Four } from "./Four"
+export { default as Five } from "./Five"
+export { default as Six } from "./Six"
 
 
 

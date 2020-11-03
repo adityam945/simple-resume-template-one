@@ -1,25 +1,25 @@
 import './style.scss';
-import {Intro, Experience, Education, Projects, Skills, Intrests} from './Imports'
+import {One, Two, Three, Four, Five, Six} from './Imports'
 
 function App() {
   return (
     <div class="container">
   
-  <Intro />
+  <One />
    <div class="details">
     
     <div class="section">
-        <Experience />
-        <Education />  
+        <Two />
+        <Three />  
     </div>
      <div class="section">
-      <Projects />
+      <Four />
     </div>
      <div class="section">
-       <Skills />
+       <Five />
        </div>
      <div class="section">
-     <Intrests />
+     <Six />
      </div>
      </div>
   </div>

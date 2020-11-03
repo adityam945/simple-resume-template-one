@@ -1,4 +1,4 @@
-import MainApp from "./sections/index"
+import MainApp from "./sections"
 
 function App() {
   return (

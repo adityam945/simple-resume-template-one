@@ -1,0 +1,73 @@
+[
+    {
+        "introData":[
+            {
+                "firstName": "FName",
+                "namePunctuation": ".",
+                "lastName": "LName",
+                "email": "some@gmail.com",
+                "phone": "0123456789",
+                "descriptionTitle": "Short Description/Goal",
+                "descriptionDetail": "I'm motivated, result-focused and seeking a successful team-oriented company with opportunity to grow."
+            }
+        ],
+        "experienceData": [
+            {
+                "companyName": "company name",
+                "companyLocation": "Location",
+                "durationOfWork": "(duration)Jan 20xx - Feb 20xx",
+                "position": "developer (position)",
+                "descriptionOfPosition":"did this(role description)"
+            },
+            {
+                "companyName": "company name2",
+                "companyLocation": "Location",
+                "durationOfWork": "(duration)Jan 20xx - Feb 20xx",
+                "position": "developer (position)",
+                "descriptionOfPosition":"did this(role description)"
+            }
+        ],
+        "educationData": [
+            {
+                "UniversityName": "Universtity Name",
+                "UniversityLocation": "Location",
+                "durationOfStudy": "(duration)Jan 20xx - Feb 20xx",
+                "StudentRole": "undergraduate at cs(major)",
+                "marks":"GPA(cgpa)"
+            },
+            {
+                "UniversityName": "High school",
+                "UniversityLocation": "Location",
+                "durationOfStudy": "(duration)Jan 20xx - Feb 20xx",
+                "StudentRole": "High school",
+                "marks":"GPA(cgpa)"
+            }
+        ],
+        "projectsData": [
+            {
+                "projectName": "Project Name",
+                "projectDesciption": "did this using this tech which has these benifits (Project Desc)"
+            },
+            {
+                "projectName": "Project Name2",
+                "projectDesciption": "did this using this tech which has these benifits (Project Desc)"
+            }
+        ],
+        "skillsData": [
+            {
+                "leftSideList": [
+                    {
+                        "nameOfSkill": "JavaS"
+                },
+                {
+                    "nameOfSkill": "Java"
+            }
+            ]
+
+            }
+        ],
+        "interestsData": [{
+            "nameOfItem": "Music, programming."
+        }]
+    }
+]

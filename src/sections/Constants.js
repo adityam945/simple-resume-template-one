@@ -5,9 +5,20 @@ export  const IntroContstants = {
     phone: "Phone:"
 }
 export  const ExperienceContstants = {
-    email: "Email:",
-    phone: "Phone:"
+    ExperienceSectionTitle: "EXPERIENCE",
 }
 
+export  const EducationContstants = {
+    EducationSectionTitle: "EDUCATION",
+}
+export  const ProjectsContstants = {
+    ProjectsSectionTitle: "PROJECTS",
+}
+export  const skillsContstants = {
+    SkillsSectionTitle: "SKILLS",
+}
+export  const interestsContstants = {
+    interestsSectionTitle: "INTERESTS/HOBBY",
+}
 
-export default {IntroContstants, ExperienceContstants};
+export default {IntroContstants, ExperienceContstants, EducationContstants, ProjectsContstants, skillsContstants, interestsContstants};
